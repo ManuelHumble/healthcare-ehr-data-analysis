@@ -41,22 +41,21 @@ The dataset includes patient demographics, clinical conditions, hospital admissi
 - Power Query (Data cleaning & transformation)  
 - DAX (Calculated columns & logic building)  
 
----
 
-# 🧹 Data Preparation & Cleaning
+# Data Preparation & Cleaning
 
 ## 📊 Dataset Overview
 - 5000+ healthcare records  
 - Patient-level EHR data  
 - Multiple clinical and operational attributes  
 
-## 🧼 Cleaning Steps
+## Cleaning Steps
 - Verified dataset structure and consistency  
 - Checked and confirmed no exact duplicate records  
 - Removed invalid negative billing values  
 - Standardized data types (dates, numeric fields)  
 
-## 🧠 Feature Engineering
+## Feature Engineering
 Created new analytical features:
 - **Length of Stay (LOS)** = Discharge Date − Admission Date  
 - **Age Groups**:
@@ -65,9 +64,7 @@ Created new analytical features:
   - Early Middle Age (35–49)
   - Late Middle Age (50–64)
   - Elderly (65+)
-- **Admission Month** for time-based analysis  
-
----
+- **Admission Month** for time-based analysis
 
 # 📈 Descriptive Analysis (What happened?)
 
@@ -88,18 +85,13 @@ All conditions are evenly distributed:
 - Obesity: 16.65%
 - Cancer: 16.62%
 
-👉 Indicates a **balanced dataset structure**
-
----
 
 ## 🧪 Test Results Distribution
 - Normal: 33.06%
 - Abnormal: 33.56%
 - Inconclusive: 33.38%
 
-👉 Perfectly balanced classification target variable
 
----
 
 # 🔍 Diagnostic Analysis (Why did it happen?)
 
@@ -107,14 +99,9 @@ All conditions are evenly distributed:
 - Average billing is highly consistent across conditions (~25K–25.9K)
 - Minimal variation between disease categories
 
-👉 Suggests standardized or synthetic cost structure
-
----
-
 ## ⏳ Length of Stay
 - LOS is mostly constant (15–16 days across conditions)
-
-👉 Indicates limited variability in hospitalization duration
+ Indicates limited variability in hospitalization duration
 
 ---
 
@@ -122,19 +109,15 @@ All conditions are evenly distributed:
 - Elderly: 30.70% Abnormal rate (highest)
 - Young Adults: 24.08%
 - Pediatric: 0.24%
+ Shows a strong correlation between age and abnormal outcomes
 
-👉 Shows strong correlation between age and abnormal outcomes
-
----
 
 # 📊 Key Insights
 
 - Age is the strongest predictor of abnormal test outcomes  
 - Medical conditions show no significant variation in cost or LOS  
-- Dataset is highly balanced across key variables  
-- Likely represents a **synthetically structured dataset**  
+- The dataset is highly balanced across key variables 
 
----
 
 # 🔮 Predictive Analysis (In Progress)
 
@@ -151,7 +134,6 @@ A rule-based predictive model is being developed in Power BI.
 - Predicted Risk vs Actual Test Results comparison
 - Patient risk segmentation dashboard  
 
----
 
 # 📌 Skills Demonstrated
 
@@ -163,22 +145,18 @@ A rule-based predictive model is being developed in Power BI.
 - Descriptive & Diagnostic Analytics  
 - Rule-based Predictive Modeling  
 
----
-
 # 🚀 Future Improvements
 
 - Complete predictive validation dashboard  
 - Add prescriptive analytics (recommendations for hospitals)  
 - Improve model logic with weighted scoring  
-- Publish interactive Power BI dashboard  
+- Publish an interactive Power BI dashboard  
 
----
 
 # 🧠 Project Summary
 
-This project demonstrates a full healthcare analytics pipeline from raw EHR data to actionable insights using Power BI, showcasing both technical and analytical decision-making skills.
+This project demonstrates a full healthcare analytics pipeline from raw EHR data to actionable insights using Power BI, showcasing both technical and analytical decision-making skills. I took the AI-generated data from Kaggle, cleaned and validated it, and presented it in a series of insightful reports
 
----
 
 ## 📬 Author
 
