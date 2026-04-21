@@ -1,9 +1,10 @@
 # 🏥 Healthcare EHR Data Analytics Project
 
+![Dashboard Preview](Homepage.png)
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow)
 ![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green)
 ![DAX](https://img.shields.io/badge/DAX-Modeling-blue)
-![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
 ![Analysis](https://img.shields.io/badge/Type-Healthcare%20Analytics-red)
 
 ---
