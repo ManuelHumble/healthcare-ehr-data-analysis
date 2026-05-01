@@ -1,6 +1,6 @@
 # 🏥 Healthcare EHR Data Analytics Project
 
-![Dashboard Preview](Health care Dashboard.png)
+![Dashboard Preview] (Health care Dashboard.png)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow)
 ![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green)
@@ -13,7 +13,7 @@
 
 This project is a full-cycle **Healthcare Electronic Health Records (EHR) Data Analysis** performed using **Power BI and Excel**.
 
-It demonstrates end-to-end data analytics skills including:
+It demonstrates end-to-end data analytics skills, including:
 - Data cleaning and transformation
 - Exploratory data analysis (EDA)
 - Diagnostic analysis
